@@ -3,7 +3,7 @@ import  { Component } from 'react';
 import { Container, Col, Row} from 'reactstrap';
 // import Select from 'react-select';
 
-/* Components */
+/* Components 123 */
 import SearchBar from './SearchBar';
 
 // import ContactCard from './ContactCard';
